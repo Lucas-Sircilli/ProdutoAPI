@@ -1,0 +1,73 @@
+[
+  {
+    "ContainingType": "ProdutoNetCoreAPI.Controllers.ProdutoController",
+    "Method": "CreateProduto",
+    "RelativePath": "Produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produto",
+        "Type": "ProdutoNetCoreAPI.Entities.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "PostProduto"
+  },
+  {
+    "ContainingType": "ProdutoNetCoreAPI.Controllers.ProdutoController",
+    "Method": "GetProduto",
+    "RelativePath": "Produto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetProduto"
+  },
+  {
+    "ContainingType": "ProdutoNetCoreAPI.Controllers.ProdutoController",
+    "Method": "UpdateProduto",
+    "RelativePath": "Produto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoAtualizado",
+        "Type": "ProdutoNetCoreAPI.Entities.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutoNetCoreAPI.Controllers.ProdutoController",
+    "Method": "DeleteProduto",
+    "RelativePath": "Produto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

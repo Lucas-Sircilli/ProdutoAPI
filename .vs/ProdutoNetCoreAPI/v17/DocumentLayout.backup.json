@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\produtonetcoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\produtonetcoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\produtonetcoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\produtonetcoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|c:\\users\\trabalho\\source\\repos\\produtonetcoreapi\\produtonetcoreapi\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69BA3A-6253-4902-BDE6-7603640ED126}|ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj|solutionrelative:produtonetcoreapi\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoNetCoreAPI.http",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI.http",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\ProdutoNetCoreAPI.http",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI.http",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\ProdutoNetCoreAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-13T03:36:54.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Program.cs",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:56:41.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:23:22.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Entities\\Produto.cs",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:01:02.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:59:49.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoNetCoreAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\ProdutoNetCoreAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T22:00:31.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\appsettings.json",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T22:00:00.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\appsettings.Development.json",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T01:32:57.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T00:20:19.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProdutoNetCoreAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Trabalho\\source\\repos\\ProdutoNetCoreAPI\\ProdutoNetCoreAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProdutoNetCoreAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T21:59:07.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

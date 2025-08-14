@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eR7YewmRmsYC/znSyDZbSIrP7g/T/bFk+/+GX7PJgCM=",
+  "Source": "ProdutoNetCoreAPI",
+  "BasePath": "_content/ProdutoNetCoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
